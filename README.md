@@ -1,8 +1,7 @@
 <h1> Feature Engineering for ML </h1>
 
 <h2>And i cover all this Topics & Practices :- </h2>
-<pre><h3>
-What is Feature Engineering?
+<pre><h3>What is Feature Engineering?
 Why is Feature Engineering so important?
 Benefits of Feature Engineering
 Analyzing The Dataset Features
@@ -15,5 +14,4 @@ What are Feature Engineering Techniques in ML?
 Encoding Categorical Data
 Encoding Independent Variables
 Encoding Dependent Variables
-Feature Scaling – The last step of Feature Engineering
-</h3></pre>
+Feature Scaling – The last step of Feature Engineering</h3></pre>
